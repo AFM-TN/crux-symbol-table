@@ -1,0 +1,8 @@
+// test large-ish symbol table, with multiple errors
+
+var a : void;
+func main(c:void) : int {
+  var b:float;
+  let b = b;
+}
+
